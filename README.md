@@ -1,5 +1,9 @@
 ![image](https://user-images.githubusercontent.com/117077749/203847974-9b2bc29c-4309-46c1-8720-5b1647f4b1cd.png)
 
+trigger:
+- main
+- feature/*
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
